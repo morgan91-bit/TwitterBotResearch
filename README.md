@@ -1,10 +1,9 @@
-# Research
-Minimizing Attack Envelopes for Publicly-Advertised Meetings
+#Minimizing Attack Envelopes for Publicly-Advertised Meetings
  
 
 1.	TITLE 
 
-		Minimizing Attack Envelopes for Publicly-Advertised Meetings
+	Minimizing Attack Envelopes for Publicly-Advertised Meetings
 
 2.	RESEARCHERS 
 
@@ -14,7 +13,7 @@ Advisor: Mary Nuznov
 
 3.	PURPOSE
 
-This research study will generate a program to scan public social media posts for insecure meeting links (e.g., Zoom, Meet, etc.) and notify the original author that they may have inadvertently posted a meeting fully open to the public, with the intent being to reduce online harassment of individuals.
+This research study will generate a program to scan public social media posts for insecure meeting links (e.g., Zoom, Meet, etc.) and notify the original author that they 	   may have inadvertently posted a meeting fully open to the public, with the intent being to reduce online harassment of individuals.
 
 Research questions:
 
@@ -23,19 +22,18 @@ RQ2: Can the bot successfully notify the author that their meeting is insecure?
 
 4.	PROCEDURES
 
-		Participant procedures:			
+Participant procedures:		
 
-		Participant receives a notification that they may have inadvertently posted an insecure 
-	meeting link on public social media.  The participant will have the option to "opt-out" 
-of future contact via a clickable link.
+Participant recieves a notification that they may have inadvertently posted an insecure  meeting link on public social media.  The participant will have the  option to 	"opt-out"  of future contact via a clickable link.
+		
 
-	Time required for each procedure		Less than one minute
-	Are procedures experimental?			Yes
-	Out of pocket costs for participants:		None
+Time required for each procedure	-	Less than one minute
+Are procedures experimental?	        -	Yes
+Out of pocket costs for participants:	-	None
 
 5.	RISKS 
 
-Electronic data will be collected and/or stored for this research project. As with any use of electronic means to store data, there exists a minimal risk that data could be lost or stolen.
+Electronic data will be collected and/or stored for this research project. As with any use of electronic means to store data, there exists a minimal risk that data could 	be lost or stolen.
 
 We will only store:
 1) The total number of insecure links detected
@@ -45,19 +43,19 @@ We will not store meeting IDs or links to meetings, only occurrences.
 
 6.	POTENTIAL BENEFITS TO YOU 
 
-The main potential benefit comes from the notification that you posted a possibly insecure meeting.  This benefit can help prevent your meeting from harassment by those not invited to the meeting.
+The main potential benefit comes from the notification that you posted a possibly insecure meeting.  This benefit can help prevent your meeting from harassment by those 	not invited to the meeting.
 
 7.	POTENTIAL BENEFITS TO SOCIETY 
 
 The anticipated benefits to society are a reduction in online harassment.
 
-8.	      VOLUNTARY PARTICIPATION 
+8.	     VOLUNTARY PARTICIPATION 
 
 Your participation in this research study is completely voluntary.  You do not have to participate.  You may quit at any time without any penalty to you.
 
 9.	      PRIVACY AND CONFIDENTIALITY 
 
-Your name (i.e., your social media name account name) will not be given to anyone other than the research team.  All information collected from you or about you is for the sole purpose of this research study and will be kept confidential to the fullest extent allowed by law. In very rare circumstances specially authorized university or government officials may be given access to our research records for purposes of protecting your rights and welfare.  We will only store your account name in the event that you do not want to be contacted again in the future.
+Your name (i.e., your social media name account name) will not be given to anyone other than the research team.  All information collected from you or about you is for the 	sole purpose of this research study and will be kept confidential to the fullest extent allowed by law. In very rare circumstances specially authorized university or 		government officials may be given access to our research records for purposes of protecting your rights and welfare.  We will only store your account name in the event 	that you do not want to be contacted again in the future.
 
 10.	      PERSONAL DATA 
 
@@ -105,8 +103,9 @@ Note: Names and signatures should NOT be collected during the consent process fo
 
 16.	      CONTACT INFORMATION State “If you have any questions about the study you may contact 
 
-	NAME: 		PHONE:  	
-            E-MAIL:  	
+NAME: 		
+PHONE:  	
+E-MAIL:  	
 
 If you have any questions about your rights as a research participant, please contact the Office of Research Compliance & Integrity at Grand Valley State University, 1 Campus Drive, Allendale, MI. Phone: 616-331-3197. E-mail: rci@gvsu.edu.
 
