@@ -25,7 +25,7 @@ RQ1: Can a program (i.e., bot) successfully discover insecure online meetings?
 
 RQ2: Can the bot successfully notify the author that their meeting is insecure?
 
-4. <b>PROCEDURES</b>
+4.<b>PROCEDURES</b>
 
 Participant procedures:		
 
