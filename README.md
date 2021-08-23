@@ -3,7 +3,7 @@
 #  Minimizing Attack Envelopes for Publicly-Advertised Meetings
  
  
-1.	<font color = "red"> <b>TITLE</b> <font/>
+1.	<font color = "red"> <b>TITLE</b> </font>
 
 	Minimizing Attack Envelopes for Publicly-Advertised Meetings
 
