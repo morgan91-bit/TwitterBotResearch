@@ -3,7 +3,7 @@
 #  Minimizing Attack Envelopes for Publicly-Advertised Meetings
  
  
-1.TITLE
+1.<b>TITLE</b>
 
 Minimizing Attack Envelopes for Publicly-Advertised Meetings
 
@@ -65,12 +65,12 @@ The anticipated benefits to society are a reduction in online harassment.
   You do not have to participate. You may quit at any time without any penalty to you. 
 
   
-9. PRIVACY AND CONFIDENTIALITY
+9. <b>PRIVACY AND CONFIDENTIALITY</b>
   
 
     Your name (i.e., your social media name account name) will not be given to anyone other than the research team.  All information collected from you or about you is for the 	 sole purpose of this research study and will be kept confidential to the fullest extent allowed by law. In very rare circumstances specially authorized university or 		government officials may be given access to our research records for purposes of protecting your rights and welfare.  We will only store your account name in the event 	that you do not want to be contacted again in the future.
 
-10. PERSONAL DATA
+10. <b>PERSONAL DATA</b>
 
 Personal data to be collected in this study includes:
  
@@ -82,25 +82,25 @@ Personal data to be collected in this study includes:
 
   Sensitive personal data will be handled and processed only by researchers conducting this study, or by specially authorized university or government officials to make sure the research was done properly.
 
-11. DATA TRANSFER
+11.<b> DATA TRANSFER</b>
 
     If you provide data to the researchers of this study while you are physically located outside of the United States, your data will be transmitted to a Grand Valley State University campus in the United States for processing.
 
-12. DATA SECURITY
+12. <b>DATA SECURITY</b>
 
   GVSU is committed to keeping your data secure. We have put in reasonable physical, technical, and administrative data protection measures for this research. If you suspect a data breach has occurred, please contact the Vice Provost for Research Administration at Grand Valley State University, 1 Campus Drive, Allendale, MI. Phone: 616-331-3197. E-mail: rci@gvsu.edu.”
 
-  13. DATA RETIONTION
+  13.<b> DATA RETIONTION</b>
 
   Personal data will be retained for 1 year following the completion of this research.
 
-  14. WITHDRAWING CONSENT 
+  14.<b> WITHDRAWING CONSENT </b>
 
   You have the right to withdraw your consent to the collection and processing of personal sensitive data at any time. If you would like to withdraw from participating in this study, please contact the lead researcher: Erik Fredericks, E-mail: frederer@gvsu.edu. If you would like to request that your personal data be removed from this study, please contact the Vice Provost for Research Administration at Grand Valley State University, 1 Campus Drive, Allendale, MI. Phone: 616-331-3197. E-mail: [rci@gvsu.edu](rci@gvsu.edu).” 
 
   Note: The university requires data removal requests to go through the Vice Provost for Research Administration (VPRA) to ensure compliance with the General Data Protection Regulation. The PI will be contacted by the VPRA and/or ORCI with further instructions in the event any requests for data removal are received.
 
-  15. AGREEMENT TO PARTICIPATE
+  15.<b> AGREEMENT TO PARTICIPATE</b>
 
 By checking the consent box below you are agreeing to the following: 
 
@@ -116,7 +116,7 @@ By checking the consent box below you are agreeing to the following:
 
 Note: Names and signatures should NOT be collected during the consent process for exempt studies, unless you need that information to successfully conduct your research project or an additional regulation (such as HIPAA) that requires signed and dated consent applies to your study. Note that the GDPR does not require signed consent. 
 
-  16. CONTACT INFORMATION: State "If you have any questions about the study you may contact
+  16. <b>CONTACT INFORMATION: </b> **State "If you have any questions about the study you may contact
 
 NAME:
 
