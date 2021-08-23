@@ -3,7 +3,7 @@
 #  Minimizing Attack Envelopes for Publicly-Advertised Meetings
  
  
-1.<b>TITLE</b>
+ 1.<b>TITLE</b>
 
 Minimizing Attack Envelopes for Publicly-Advertised Meetings
 
@@ -84,7 +84,7 @@ Personal data to be collected in this study includes:
 
 11.<b> DATA TRANSFER</b>
 
-    If you provide data to the researchers of this study while you are physically located outside of the United States, your data will be transmitted to a Grand Valley State University campus in the United States for processing.
+If you provide data to the researchers of this study while you are physically located outside of the United States, your data will be transmitted to a Grand Valley State University campus in the United States for processing.
 
 12. <b>DATA SECURITY</b>
 
