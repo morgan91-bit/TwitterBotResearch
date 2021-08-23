@@ -3,11 +3,11 @@
 #  Minimizing Attack Envelopes for Publicly-Advertised Meetings
  
  
-1.	<font color = "red"> <b>TITLE</b> </font>
+<font color = "red">1.<b>TITLE</b> </font>
 
 	Minimizing Attack Envelopes for Publicly-Advertised Meetings
 
-2.	<b>RESEARCHERS</b>
+<font color = "red">2.	<b>RESEARCHERS</b></font>
 
     PI: Erik Fredericks
 
@@ -15,7 +15,7 @@
 
     Advisor: Mary Nuznov
 
-3.	<b>PURPOSE</b>
+<font color = "red">3.	<b>PURPOSE</b></font>
 
 	This research study will generate a program to scan public social media posts for insecure meeting links (e.g., Zoom, Meet, etc.) and notify the original author that they 	   may have inadvertently posted a meeting fully open to the public, with the intent being to reduce online harassment of individuals.
 
