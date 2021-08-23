@@ -58,17 +58,17 @@ The main potential benefit comes from the notification that you posted a possibl
 
 The anticipated benefits to society are a reduction in online harassment.
 
-8. <b>VOLUNTARY PARTICIPATION </b>
+8.<b>VOLUNTARY PARTICIPATION </b>
   
   Your participation in this research is completely voluntary. 
   
   You do not have to participate. You may quit at any time without any penalty to you. 
 
   
- 9. <b>PRIVACY AND CONFIDENTIALITY</b>
+  9.<b>PRIVACY AND CONFIDENTIALITY</b>
   
 
-    Your name (i.e., your social media name account name) will not be given to anyone other than the research team.  All information collected from you or about you is for the 	 sole purpose of this research study and will be kept confidential to the fullest extent allowed by law. In very rare circumstances specially authorized university or 		government officials may be given access to our research records for purposes of protecting your rights and welfare.  We will only store your account name in the event 	that you do not want to be contacted again in the future.
+Your name (i.e., your social media name account name) will not be given to anyone other than the research team.  All information collected from you or about you is for the 	 sole purpose of this research study and will be kept confidential to the fullest extent allowed by law. In very rare circumstances specially authorized university or 		government officials may be given access to our research records for purposes of protecting your rights and welfare.  We will only store your account name in the event 	that you do not want to be contacted again in the future.
 
 10.<b>PERSONAL DATA</b>
 
@@ -100,7 +100,7 @@ If you provide data to the researchers of this study while you are physically lo
 
   Note: The university requires data removal requests to go through the Vice Provost for Research Administration (VPRA) to ensure compliance with the General Data Protection Regulation. The PI will be contacted by the VPRA and/or ORCI with further instructions in the event any requests for data removal are received.
 
-15. <b> AGREEMENT TO PARTICIPATE</b>
+15.<b> AGREEMENT TO PARTICIPATE</b>
 
 By checking the consent box below you are agreeing to the following: 
 
@@ -116,7 +116,7 @@ By checking the consent box below you are agreeing to the following:
 
 Note: Names and signatures should NOT be collected during the consent process for exempt studies, unless you need that information to successfully conduct your research project or an additional regulation (such as HIPAA) that requires signed and dated consent applies to your study. Note that the GDPR does not require signed consent. 
 
-16. <b>CONTACT INFORMATION: </b> **State "If you have any questions about the study you may contact
+16.<b>CONTACT INFORMATION: </b> **State "If you have any questions about the study you may contact
 
 NAME:
 
