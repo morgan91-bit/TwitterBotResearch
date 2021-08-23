@@ -1,8 +1,4 @@
-![alt text](https://github.com/morgan91-bit/Research/blob/04bd931899f3b2fda83fa48108df98149fb05086/Grand%20Valley%20Logo.png) 
 
-#  Minimizing Attack Envelopes for Publicly-Advertised Meetings
- 
- 
  1.<b>TITLE</b>
 
 Minimizing Attack Envelopes for Publicly-Advertised Meetings
