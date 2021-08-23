@@ -3,66 +3,66 @@
 #  Minimizing Attack Envelopes for Publicly-Advertised Meetings
  
  
-1.<b>TITLE</b> 
+1.TITLE
 
-	Minimizing Attack Envelopes for Publicly-Advertised Meetings
+Minimizing Attack Envelopes for Publicly-Advertised Meetings
 
 2.<b>RESEARCHERS</b>
 
-    PI: Erik Fredericks
+PI: Erik Fredericks
 
-    Research Assistant: Morgan Hamlin
+Research Assistant: Morgan Hamlin
 
-    Advisor: Mary Nuznov
+ Advisor: Mary Nuznov
 
 3.<b>PURPOSE</b>
 
-	This research study will generate a program to scan public social media posts for insecure meeting links (e.g., Zoom, Meet, etc.) and notify the original author that they 	   may have inadvertently posted a meeting fully open to the public, with the intent being to reduce online harassment of individuals.
+This research study will generate a program to scan public social media posts for insecure meeting links (e.g., Zoom, Meet, etc.) and notify the original author that they 	   may have inadvertently posted a meeting fully open to the public, with the intent being to reduce online harassment of individuals.
 
-	<b>Research questions:</b>
+<b>Research questions:</b>
 
-	RQ1: Can a program (i.e., bot) successfully discover insecure online meetings?
+RQ1: Can a program (i.e., bot) successfully discover insecure online meetings?
 
-	RQ2: Can the bot successfully notify the author that their meeting is insecure?
+RQ2: Can the bot successfully notify the author that their meeting is insecure?
 
 4. <b>PROCEDURES</b>
 
-	Participant procedures:		
+Participant procedures:		
 
-	Participant recieves a notification that they may have inadvertently posted an insecure  meeting link on public social media.  The participant will have the  option to 	"opt-out"  of future contact via a clickable link.
+Participant recieves a notification that they may have inadvertently posted an insecure  meeting link on public social media.  The participant will have the  option to 	"opt-out"  of future contact via a clickable link.
 		
 
-	Time required for each procedure	-	Less than one minute
+Time required for each procedure	-	Less than one minute
 
-	Are procedures experimental?	        -	Yes
+Are procedures experimental?	        -	Yes
 
-	Out of pocket costs for participants:	-	None
+Out of pocket costs for participants:	-	None
 
 5.	<b>RISKS </b>
 
-	Electronic data will be collected and/or stored for this research project. As with any use of electronic means to store data, there exists a minimal risk that data could 	  be lost or stolen.
+Electronic data will be collected and/or stored for this research project. As with any use of electronic means to store data, there exists a minimal risk that data could 	  be lost or stolen.
 
-	We will only store:
+We will only store:
 	
-	1) The total number of insecure links detected
+1) The total number of insecure links detected
 	
-	2) Usernames in the event that the user wishes to "opt-out" of future surveys
+2) Usernames in the event that the user wishes to "opt-out" of future surveys
 
-	We will not store meeting IDs or links to meetings, only occurrences.
+3) We will not store meeting IDs or links to meetings, only occurrences.
 
-6.	<b>POTENTIAL BENEFITS TO YOU </b>
+6.<b>POTENTIAL BENEFITS TO YOU </b>
 
-	The main potential benefit comes from the notification that you posted a possibly insecure meeting.  This benefit can help prevent your meeting from harassment by those 	 not invited to the meeting.
+The main potential benefit comes from the notification that you posted a possibly insecure meeting.  This benefit can help prevent your meeting from harassment by those 	 not invited to the meeting.
 
-7.	<b>POTENTIAL BENEFITS TO SOCIETY</b>
+7.<b>POTENTIAL BENEFITS TO SOCIETY</b>
 
-	The anticipated benefits to society are a reduction in online harassment.
+The anticipated benefits to society are a reduction in online harassment.
 
 8.	  <b>VOLUNTARY PARTICIPATION </b>
   
-   Your participation in this research is completely voluntary. 
+  Your participation in this research is completely voluntary. 
   
-   You do not have to participate. You may quit at any time without any penalty to you. 
+  You do not have to participate. You may quit at any time without any penalty to you. 
 
   
 9. PRIVACY AND CONFIDENTIALITY
