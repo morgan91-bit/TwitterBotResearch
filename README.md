@@ -3,11 +3,11 @@
 #  Minimizing Attack Envelopes for Publicly-Advertised Meetings
  
  
-<font color = "red">1.<b>TITLE</b> </font>
+1.<b>TITLE</b> 
 
 	Minimizing Attack Envelopes for Publicly-Advertised Meetings
 
-<font color = "red">2.	<b>RESEARCHERS</b></font>
+2.<b>RESEARCHERS</b>
 
     PI: Erik Fredericks
 
@@ -15,7 +15,7 @@
 
     Advisor: Mary Nuznov
 
-<font color = "red">3.	<b>PURPOSE</b></font>
+3.<b>PURPOSE</b>
 
 	This research study will generate a program to scan public social media posts for insecure meeting links (e.g., Zoom, Meet, etc.) and notify the original author that they 	   may have inadvertently posted a meeting fully open to the public, with the intent being to reduce online harassment of individuals.
 
@@ -25,7 +25,7 @@
 
 	RQ2: Can the bot successfully notify the author that their meeting is insecure?
 
-4.	<b>PROCEDURES</b>
+4. <b>PROCEDURES</b>
 
 	Participant procedures:		
 
@@ -96,7 +96,7 @@ Personal data to be collected in this study includes:
 
   14. WITHDRAWING CONSENT 
 
-  You have the right to withdraw your consent to the collection and processing of personal sensitive data at any time. If you would like to withdraw from participating in this study, please contact the lead researcher: Erik Fredericks, E-mail: frederer@gvsu.edu. If you would like to request that your personal data be removed from this study, please contact the Vice Provost for Research Administration at Grand Valley State University, 1 Campus Drive, Allendale, MI. Phone: 616-331-3197. E-mail: rci@gvsu.edu.” 
+  You have the right to withdraw your consent to the collection and processing of personal sensitive data at any time. If you would like to withdraw from participating in this study, please contact the lead researcher: Erik Fredericks, E-mail: frederer@gvsu.edu. If you would like to request that your personal data be removed from this study, please contact the Vice Provost for Research Administration at Grand Valley State University, 1 Campus Drive, Allendale, MI. Phone: 616-331-3197. E-mail: [rci@gvsu.edu](rci@gvsu.edu).” 
 
   Note: The university requires data removal requests to go through the Vice Provost for Research Administration (VPRA) to ensure compliance with the General Data Protection Regulation. The PI will be contacted by the VPRA and/or ORCI with further instructions in the event any requests for data removal are received.
 
@@ -124,7 +124,7 @@ PHONE:
 
 E-MAIL:  	
 
-If you have any questions about your rights as a research participant, please contact the Office of Research Compliance & Integrity at Grand Valley State University, 1 Campus Drive, Allendale, MI. Phone: 616-331-3197. E-mail: rci@gvsu.edu.
+If you have any questions about your rights as a research participant, please contact the Office of Research Compliance & Integrity at Grand Valley State University, 1 Campus Drive, Allendale, MI. Phone: 616-331-3197. E-mail: [rci@gvsu.edu](rci@gvsu.edu).
 
 This study has been reviewed by the Institutional Review Board at Grand Valley State University (Protocol #XX-XXX-H).”
 
