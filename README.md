@@ -1,4 +1,4 @@
-[Opt out of this research study](#opt-out)
+[Opt out of this research study](#17.-opt-out)
 
 ## 1.TITLE
 
