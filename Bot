@@ -1,0 +1,45 @@
+import tweepy
+import csv
+
+
+#Keys and Tokens
+consumer_key = "xxxxx"
+consumer_secret = "xxxxx"
+access_token = "xxxxxx"
+access_token_secret = "xxxx"
+
+#Authorization
+auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+auth.set_access_token(access_token, access_token_secret )
+api = tweepy.API(auth,wait_on_rate_limit=True)
+
+#Comma seperated values file where data is saved
+#Can import BotData into excel file
+csvFile = open('BotData', 'a')
+csvWriter = csv.writer(csvFile)
+
+#Search words
+search_words = "zoom.us"
+contained_within = "Michigan"
+new_search = search_words + " -filter:retweets"
+
+#Search filter, for loop
+for tweet in tweepy.Cursor(api.search,q=new_search,
+                           lang="en",
+                           since_id=0).items():
+    csvWriter.writerow([tweet.created_at, tweet.text.encode('utf-8'),tweet.user.screen_name.encode('utf-8'), tweet.user.location.encode('utf-8')])
+
+
+# Sending direct message
+recipient_id = xxxxxx
+text = "Your zoom link is insecure. For more information visit https://morgan91-bit.github.io/Research/"
+direct_message = api.send_direct_message(recipient_id, text)
+print(direct_message.message_create['message_data']['text'])
+
+#Talk about converting usernames into ids
+
+
+#Talk about excluding userids
+ignored_users = ['user1', 'user2']
+if (found_user not in ignored_users):
+  add_to_dataset(found_user)
